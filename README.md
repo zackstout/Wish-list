@@ -2,7 +2,8 @@
 # Wish List
 
 ## Clear directives:
-- [ ] Complete user interface for spirograph.
+- [x] Complete user interface for spirograph.
+- [ ] Make spirographs more efficient: i.e. don't redraw entire path each frame.
 - [ ] Complete runtime races.
 - [ ] Group poets in DB by genre, epoch, sentiment.
 - [ ] Improve the efficiency of the Menger Sponge.
@@ -13,7 +14,7 @@
 - [ ] Determine whether a pixel lies within the leaf of a given plant (phyllotaxis genetic algorithm).
 - [ ] Find a usable PDF parser.
 - [ ] Transform to polar coordinates with variable center (star map).
-- [ ] Figure out how to schedule function calls with Python3.
+- [ ] Figure out how to schedule function calls with Python3 (weather app).
 - [ ] Add images to p5 canvas (*Love Actually* visualization).
 
 ## Invitations to brainstorm:
