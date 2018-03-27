@@ -35,4 +35,4 @@
 - [ ] Sketch a fractal tree that looks like a real tree.
 - [ ] Create animation that illustrates Stokes' Theorem, with Perlin noise.
 - [ ] Build 2048
-- [ ] Explore coding with Prolog (formal logic language)
+- [ ] Explore coding with Prolog (formal logic language) -- use Greek mythology family tree for fun sandbox.
