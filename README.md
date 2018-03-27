@@ -7,10 +7,12 @@
 - [ ] Complete runtime races.
 - [ ] Group poets in DB by genre, epoch, sentiment.
 - [ ] Improve the efficiency of the Menger Sponge.
-- [ ] Improve the efficiency of the 3d snow vector field.
+- [ ] Improve the efficiency of the 3d snow vector field (perhaps with quadtree).
 - [ ] Hook Python3 up to MySQL without Django.
+- [ ] Built Menger sponge (with quadtree??) in C#.
+- [ ] Complete interface for cellular automata: let user drag mouse to select values for starting row.
 
-## Blockers:
+## Blockers (i.e. I spent a few hours and couldn't get it):
 - [ ] Determine whether a pixel lies within the leaf of a given plant (phyllotaxis genetic algorithm).
 - [ ] Find a usable PDF parser.
 - [ ] Transform to polar coordinates with variable center (star map).
@@ -22,9 +24,13 @@
 - [ ] Automate these simulations so that we have data to analyze.
 - [ ] Play with circle inversions; try to get hyperbolic reflections showing up.
 - [ ] Explore relation between spirograph and Fourier transformations.
-- [ ] Analyze the dataset about sleeping alone.
+- [ ] Analyze the dataset about sleeping alone. Need to parse data into numbers.
 - [ ] Find an inspiring idea for exploring Rails: perhaps the Shakespeare project for which we've already scraped the data.
 - [ ] Animate transition between rectangular and polar coordinates.
 - [ ] Enrich the parabolic shooter game.
 - [ ] Continue exploring d3.
 - [ ] Build (and understand) a neural network.
+- [ ] Sketch a fractal tree that looks like a real tree.
+- [ ] Create animation that illustrates Stokes' Theorem, with Perlin noise.
+- [ ] Build 2048
+- [ ] Explore coding with Prolog (formal logic language)
