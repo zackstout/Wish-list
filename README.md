@@ -11,8 +11,10 @@
 - [ ] Hook Python3 up to MySQL without Django.
 - [ ] Built Menger sponge (with quadtree??) in C#.
 - [ ] Complete interface for cellular automata: let user drag mouse to select values for starting row.
+- [ ] Do Project Euler problems in Java or C# or Ruby to learn syntax/principles of efficiency.
+- [ ] Fix census regression loop so that it correctly runs each pair.
 
-## Blockers (i.e. I spent a few hours and couldn't get it):
+## Blockers:
 - [ ] Determine whether a pixel lies within the leaf of a given plant (phyllotaxis genetic algorithm).
 - [ ] Find a usable PDF parser.
 - [ ] Transform to polar coordinates with variable center (star map).
