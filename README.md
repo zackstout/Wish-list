@@ -9,10 +9,14 @@
 - [ ] Improve the efficiency of the Menger Sponge.
 - [ ] Improve the efficiency of the 3d snow vector field (perhaps with quadtree).
 - [ ] Hook Python3 up to MySQL without Django.
-- [ ] Built Menger sponge (with quadtree??) in C#.
+- [ ] Build Menger sponge (with quadtree??) in C#.
 - [ ] Complete interface for cellular automata: let user drag mouse to select values for starting row.
 - [ ] Do Project Euler problems in Java or C# or Ruby to learn syntax/principles of efficiency.
-- [ ] Fix census regression loop so that it correctly runs each pair.
+- [ ] Perhaps do the same for sorting algorithms.
+- [ ] Fix census regression loop so that it correctly runs each pair of axes.
+- [ ] Build an app that lets users input a grid size and then numbers one by one to create a Pandas dataframe.
+- [ ] Convert Shakespeare CSVs into SQL database (tables for Play, Speaker, Line).
+- [ ] Scrape data from [Poetry Foundation](poetryfoundation.org) for more poems (also eras, schools, etc.).
 
 ## Blockers:
 - [ ] Determine whether a pixel lies within the leaf of a given plant (phyllotaxis genetic algorithm).
