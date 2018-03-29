@@ -36,3 +36,12 @@
 - [ ] Create animation that illustrates Stokes' Theorem, with Perlin noise.
 - [ ] Build 2048
 - [ ] Explore coding with Prolog (formal logic language) -- use Greek mythology family tree for fun sandbox.
+
+## Don't forget to blog!
+- [ ] Pandas, linear regression
+- [ ] Scraping Wikipedia
+- [ ] OOP and "this"
+- [ ] Efficiency issues
+- [ ] Getting setup with Django/Rails, MVC-style
+- [ ] Spirograph
+
