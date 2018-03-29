@@ -36,6 +36,7 @@
 - [ ] Create animation that illustrates Stokes' Theorem, with Perlin noise.
 - [ ] Build 2048
 - [ ] Explore coding with Prolog (formal logic language) -- use Greek mythology family tree for fun sandbox.
+- [ ] Use d3 to illustrate different sorting algorithms (two birds one stone!).
 
 ## Don't forget to blog!
 - [ ] Pandas, linear regression
