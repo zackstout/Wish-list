@@ -41,6 +41,7 @@
 - [ ] Build 2048
 - [ ] Explore coding with Prolog (formal logic language) -- use Greek mythology family tree for fun sandbox.
 - [ ] Use d3 to illustrate different sorting algorithms (two birds one stone!).
+- [ ] Learn Redux and Haskell, generally explore functional programming.
 
 ## Don't forget to blog!
 - [ ] Pandas, linear regression
@@ -49,4 +50,5 @@
 - [ ] Efficiency issues
 - [ ] Getting setup with Django/Rails, MVC-style
 - [ ] Spirograph
+- [ ] Cellular Automata
 
