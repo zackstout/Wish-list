@@ -17,6 +17,7 @@
 - [ ] Build an app that lets users input a grid size and then numbers one by one to create a Pandas dataframe.
 - [ ] Convert Shakespeare CSVs into SQL database (tables for Play, Speaker, Line).
 - [ ] Scrape data from [Poetry Foundation](poetryfoundation.org) for more poems (also eras, schools, etc.).
+- [ ] Create API for which Rick and Morty is playing on the stream at a given time. 
 
 ## Blockers:
 - [ ] Determine whether a pixel lies within the leaf of a given plant (phyllotaxis genetic algorithm).
